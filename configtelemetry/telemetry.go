@@ -16,8 +16,8 @@ import (
 )
 
 var (
-	telemetryPkgPath = "github.com/mattermost/mattermost-server/v5/services/telemetry"
-	modelPkgPath     = "github.com/mattermost/mattermost-server/v5/model"
+	telemetryPkgPath = "github.com/nhannv/kid/v5/services/telemetry"
+	modelPkgPath     = "github.com/nhannv/kid/v5/model"
 )
 
 const (

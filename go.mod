@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-govet
+module github.com/nhannv/kid-govet
 
 go 1.13
 

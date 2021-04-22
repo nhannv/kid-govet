@@ -1,6 +1,6 @@
-## Mattermost Go Vet
+## Kid Go Vet
 
-This repository contains mattermost-specific go-vet rules that are used to maintain code consistency in `mattermost-server`.
+This repository contains kid-specific go-vet rules that are used to maintain code consistency in `mattermost-server`.
 
 ## Included analyzers
 

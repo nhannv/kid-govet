@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	appErrorString = "*github.com/mattermost/mattermost-server/v5/model.AppError"
+	appErrorString = "*github.com/nhannv/kid/v5/model.AppError"
 )
 
 var Analyzer = &analysis.Analyzer{

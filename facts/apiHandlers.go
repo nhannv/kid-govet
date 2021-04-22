@@ -26,7 +26,7 @@ var ApiHandlerFacts = &analysis.Analyzer{
 }
 
 func apiHandlers(pass *analysis.Pass) (interface{}, error) {
-	if pass.Pkg.Path() != "github.com/mattermost/mattermost-server/v5/api4" {
+	if pass.Pkg.Path() != "github.com/nhannv/kid/v5/api4" {
 		return nil, nil
 	}
 

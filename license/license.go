@@ -27,7 +27,7 @@ func run(pass *analysis.Pass) (interface{}, error) {
 	const bindataHeader = "by go-bindata DO NOT EDIT. (@generated)"
 	const buildTag = "// +build"
 
-	const licenseLine1 = "// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved."
+	const licenseLine1 = "// Copyright (c) 2020-present OneGarten, Inc. All Rights Reserved."
 	licenseLine2 := "// See LICENSE.txt for license information."
 	if pass.Analyzer.Name == "enterpriseLicense" {
 		licenseLine2 = "// See ENTERPRISE-LICENSE.txt and SOURCE-CODE-LICENSE.txt for license information."
